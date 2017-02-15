@@ -1,0 +1,40 @@
+ @media (min-width: 640px) { /* 768px */
+    .navbar-brand#logo {
+    	padding-top: 30px;
+    	height: 80px;
+    	margin-left: 20px;
+    	margin-right: 20px;
+  		width: 100%;
+	  	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	  	text-align: center;
+	  	color: white !important;
+	  	font-weight: bold;
+	  	font-size: 20px !important;
+	  	background: #4aaaa5;
+
+    }
+    .navbar-header ul > li {
+    	display: inline-block;
+    	font-size: 20px;
+    }
+    .navbar-header ul {
+    	height: 80px;
+    	margin-top: 0;
+    	padding-top: 18px;
+    	background-color: white;
+    	text-align: center;
+    }
+
+}
+
+
+
+
+body {
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 18px;
+  color: #777;
+  background: url("../images/concrete_seamless.png");
+}
+
+
